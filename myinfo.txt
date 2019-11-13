@@ -5,3 +5,4 @@ Address: 115 panipadhero marg, Minbhawan, Kathmandu, Nepal.
 Semester: 8th semester running
 Nationality: Nepali
 Languages: Javascript
+Hobby: Music
